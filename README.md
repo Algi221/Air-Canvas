@@ -33,3 +33,6 @@ Dependencies are listed in `requirements.txt`.
 - **Erase:** Make a **fist** and glide it over your strokes to erase them like a whiteboard eraser.
 - **Select Tools:** Move your index finger into the UI boxes at the top of the screen to switch colors or adjust the brush size.
 - **Quit:** Press `q` while the application window is focused to exit.
+
+---
+*Happy drawing!*
